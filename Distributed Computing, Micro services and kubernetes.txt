@@ -1,4 +1,5 @@
->> Distributed Computing: Distributed computing refers to a system where multiple computers (or nodes) work together to solve a large problem or process data collaboratively. The tasks are divided among the nodes, enabling parallel processing for faster and more efficient computation.
+>> Distributed Computing:
+Distributed computing refers to a system where multiple computers (or nodes) work together to solve a large problem or process data collaboratively. The tasks are divided among the nodes, enabling parallel processing for faster and more efficient computation.
 
 **Components of Distributed Computing**
 
