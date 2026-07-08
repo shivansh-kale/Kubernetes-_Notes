@@ -232,3 +232,22 @@ Summary
 By breaking down a complex ML system into microservices and running it on Docker-Kubernetes, you can handle increasing workloads, deploy faster, and maintain a more resilient architecture.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+#  Core Objects
+
+| Object | Purpose |
+|---------|----------|
+| Pod | Smallest Deployable Unit |
+| ReplicaSet | Maintains Pod Count |
+| Deployment | Manages Pods & Updates |
+| Service | Stable Network Endpoint |
+| Ingress | External Entry Point |
+| ConfigMap | Configuration |
+| Secret | Sensitive Data |
+| PVC | Persistent Storage |
+| Namespace | Logical Isolation |
+| Job | One-Time Task |
+| CronJob | Scheduled Task |
+
+---
